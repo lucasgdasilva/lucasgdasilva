@@ -11,6 +11,7 @@ I’m interested in technology, especially web development, and I enjoy coming u
 I’m improving my skills and getting to know more about tools such as:
 - C
 - Python
+- JavaScript
 - HTML
 - CSS
 
