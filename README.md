@@ -21,3 +21,7 @@ I’m no expert yet, but I'm excited to keep learning and get better at it!
 
 ### My goal
 I want to become a skilled developer who can build creative and reliable projects.
+
+----
+
+bode
