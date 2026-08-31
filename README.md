@@ -14,6 +14,8 @@ I’m improving my skills and getting to know more about tools such as:
 - JavaScript
 - HTML
 - CSS
+- PHP
+- SQL
 
 I’m no expert yet, but I'm excited to keep learning and get better at it!
 
